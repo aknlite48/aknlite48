@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Aanand+%F0%9F%91%8B;AI+%2F+ML+Engineer;Building+with+LLMs+%26+Agents)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aanand-krishnan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aknlite48)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aanand-k.com)
 
 </div>
 
@@ -14,6 +14,17 @@
 AI/ML Engineer building intelligent systems at the intersection of LLMs, multi-agent architectures, and full-stack engineering.
 
 Right now I'm in New York working on AI-powered tools for capital markets — multi-agent pipelines, text-to-SQL, RAG over large financial corpora, and real-time portfolio intelligence. Before that, I studied CS at **NYU Courant** and Bioengineering at **IIT Madras**.
+
+---
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -78,9 +89,7 @@ Right now I'm in New York working on AI-powered tools for capital markets — mu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aknlite48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknlite48&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aknlite48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aknlite48&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 

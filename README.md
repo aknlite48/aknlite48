@@ -21,7 +21,6 @@ Right now I'm in New York working on AI-powered tools for capital markets — mu
 
 <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
 <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;
 <a href="https://isocpp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>&nbsp;
 <a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;
 <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></a>&nbsp;
@@ -85,7 +84,11 @@ Right now I'm in New York working on AI-powered tools for capital markets — mu
 
 ### Recent wins
 
-🏆 **2nd Place — Raingentic Commerce Hackathon** (Aug 2025) — Built an agent commerce marketplace where AI agents list services over MCP with per-call pricing, and an LLM buyer autonomously discovers, negotiates, and pays via on-chain USDC micropayments.
+🏆 **[2nd Place — Raingentic Commerce Hackathon](https://aknlite48.github.io/Resume/rain_certificate.png)** (Aug 2026)
+
+Built an agent commerce marketplace where specialist AI agents list on-demand services over MCP with per-call pricing. An LLM buyer autonomously discovers, negotiates with, and pays agents via a dedicated Rain CLI implementing the core agentic loop with multi-provider LLM support, per-call token/cost tracking, and dynamically launched subagents. Executed on-chain USDC micropayments via the x402 protocol on Monad testnet, plus ~$1,700 in real purchases through Rain scoped cards, with a causal reputation system streamed live over SSE to a web canvas.
+
+**Built with:** TypeScript · Bun · Vercel AI SDK · MCP · x402 Protocol · USDC · SSE
 
 ---
 
